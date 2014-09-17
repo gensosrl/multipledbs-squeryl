@@ -1,3 +1,5 @@
+Demo app showing how to use multiple db connections for Squeryl and Liftweb, Check UserSchema
+
 Twitter Bootstrap
 -----------------
 
